@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Implicit and Explicit Intents Practice</string>
+    <string name="create_new_contact">Create New Contact</string>
+    <string name="contacts_app">Contacts App</string>
+    <string name="todo">TODO</string>
+    <string name="location">location</string>
+    <string name="web">web</string>
+    <string name="please_enter_your_contact_number">Please enter your contact number</string>
+    <string name="please_enter_your_name">Please enter your name</string>
+    <string name="please_enter_your_web">Please enter your web</string>
+    <string name="please_enter_your_address">Please enter your address</string>
+    <string name="hsppy">hsppy</string>
+    <string name="ok">ok</string>
+    <string name="sad">sad</string>
+</resources>
